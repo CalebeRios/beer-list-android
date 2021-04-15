@@ -1,4 +1,4 @@
-package com.example.beerlist
+package com.caleberios.beerlist
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
